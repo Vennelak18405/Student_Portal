@@ -1,0 +1,11 @@
+STUDENT PORTAL
+
+This is a demo project for a basic Student Portal application.
+
+--> Features
+
+* Student registration and login.
+* View and update student profile.
+* Attendance tracking.
+* View academic results.
+* Admin panel for managing students.
